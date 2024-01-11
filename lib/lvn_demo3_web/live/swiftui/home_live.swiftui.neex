@@ -1,0 +1,1 @@
+<Text class={@other}>Hello, SwiftUI Template! <%= @other + 100 %></Text>
