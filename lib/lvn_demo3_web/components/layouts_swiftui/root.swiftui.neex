@@ -1,0 +1,5 @@
+<.csrf_token />
+<.stylesheet />
+<NavigationStack>
+    <%= @inner_content %>
+</NavigationStack>

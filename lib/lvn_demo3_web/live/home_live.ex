@@ -20,4 +20,8 @@ defmodule LvnDemo3Web.HomeLive do
   def handle_event("incr", _params, socket) do
     {:noreply, assign(socket, :count, socket.assigns.count + 1)}
   end
+
+  def handle_event("navigate", _params, socket) do
+    {:noreply, push_navigate(socket, to: "/")}
+  end
 end

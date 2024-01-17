@@ -58,7 +58,7 @@ config :lvn_demo3, LvnDemo3Web.Endpoint,
     patterns: [
       ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
       ~r"priv/gettext/.*(po)$",
-      ~r"lib/lvn_demo3_web/(controllers|live|components|styles)/.*(ex|heex)$"
+      ~r"lib/lvn_demo3_web/(controllers|live|components|styles)/.*(ex|heex|neex)$"
     ]
   ]
 
@@ -81,6 +81,6 @@ config :phoenix, :plug_init_mode, :runtime
 # Disable swoosh api client as it is only required for production adapters.
 config :swoosh, :api_client, false
 
-# config :live_view_native_stylesheet,
-#   annotations: true,
-#   pretty: true 
+config :live_view_native_stylesheet,
+  annotations: false
+#   pretty: true

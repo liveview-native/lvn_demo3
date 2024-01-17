@@ -1,3 +1,1 @@
-<NavStack class="watchos">
-  <%= @inner_content %>
-</NavStack>
+<%= @inner_content %>

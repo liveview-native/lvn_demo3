@@ -53,13 +53,13 @@ defmodule LvnDemo3.MixProject do
       {:dns_cluster, "~> 0.1.1"},
       {:plug_cowboy, "~> 2.5"},
       # {:live_view_native, path: "../live_view_native", override: true},
-      {:live_view_native, github: "liveview-native/live_view_native"},
-      # {:live_view_native_swiftui, path: "../liveview-client-swiftui", override: true},
-      {:live_view_native_swiftui, github: "liveview-native/liveview-client-swiftui"},
+      {:live_view_native, github: "liveview-native/live_view_native", override: true},
+      {:live_view_native_swiftui, path: "/Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui", override: true},
+      # {:live_view_native_swiftui, github: "liveview-native/liveview-client-swiftui"},
       # {:live_view_native_html, path: "../live_view_native_html", override: true},
       {:live_view_native_html, github: "liveview-native/live_view_native_html"},
       # {:live_view_native_stylesheet, path: "../live_view_native_stylesheet", override: true}
-      {:live_view_native_stylesheet, github: "liveview-native/live_view_native_stylesheet"}
+      {:live_view_native_stylesheet, github: "liveview-native/live_view_native_stylesheet", override: true}
     ]
   end
 

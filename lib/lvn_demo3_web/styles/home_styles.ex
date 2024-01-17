@@ -1,25 +1,27 @@
-defmodule LvnDemo3Web.HomeStyles do
+defmodule HomeStyles do
   use LiveViewNative.Stylesheet, :swiftui
 
   ~SHEET"""
-  "color-" <> color do
-    foregroundStyle(to_ime(color))
+  "color" do
+    foregroundStyle(Color(.sRGB, red: 0.4627, green: 0.8392, blue: 1.0))
   end
-
-  "bold" do
-    bold(true)
+  "color-member" do
+    foregroundStyle(Color.pink)
+    foregroundStyle(.pink)
   end
-
-  "italic" do
-    italic(true)
+  "color-opacity" do
+    foregroundStyle(.pink.opacity(0.5))
+    foregroundStyle(Color.pink.opacity(0.5))
   end
-
-  "bg-circle" do
-    background(content: :circle)
+  "color-white" do
+    foregroundStyle(Color(.sRGB, white: 0.5, opacity: 0.5))
   end
-
-  "fill-" <> color do
-    fill(to_ime(color))
+  "color-hsb" do
+    foregroundStyle(Color(hue: 1, saturation: 0.5, brightness: 0.25, opacity: 0.75))
+  end
+  "any-gradient" do
+    foregroundStyle(Color.red.gradient)
+    foregroundStyle(Color.pink.opacity(0.5).gradient)
   end
   """
 end

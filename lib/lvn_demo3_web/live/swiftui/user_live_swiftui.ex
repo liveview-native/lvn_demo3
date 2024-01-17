@@ -10,7 +10,7 @@ defmodule LvnDemo3Web.UserLive.SwiftUI do
     <Text>Hello, watch!</Text>
     """
   end
-  
+
   def render(assigns, _interface) do
     ~LVN"""
     <Text>Hello, team!</Text>

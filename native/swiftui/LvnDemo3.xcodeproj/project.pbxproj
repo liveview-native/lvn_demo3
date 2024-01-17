@@ -3,11 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		283E8ECD53255876790A1877 /* LiveViewNative in Frameworks */ = {isa = PBXBuildFile; productRef = FFA056C1A3CE6E895B7A2CFC /* LiveViewNative */; };
+		003466B12B50728000A16F8C /* LiveViewNative in Frameworks */ = {isa = PBXBuildFile; productRef = 003466B02B50728000A16F8C /* LiveViewNative */; };
 		39CE319788348A02FCE5EFF2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37DE529A4A734541C3D1C12E /* Preview Assets.xcassets */; };
 		6A0BDA4DA0F7B2AAFEF754CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87FFC3254DB161B007A5E056 /* ContentView.swift */; };
 		A159CED00BED55CD16B02B33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06E49345D9EC4F039F449472 /* Assets.xcassets */; };
@@ -27,7 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				283E8ECD53255876790A1877 /* LiveViewNative in Frameworks */,
+				003466B12B50728000A16F8C /* LiveViewNative in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,7 +87,7 @@
 			);
 			name = iOS;
 			packageProductDependencies = (
-				FFA056C1A3CE6E895B7A2CFC /* LiveViewNative */,
+				003466B02B50728000A16F8C /* LiveViewNative */,
 			);
 			productName = iOS;
 			productReference = 5BBE9F4210B6371DCD81038E /* iOS.app */;
@@ -101,8 +101,6 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastUpgradeCheck = 1430;
-				TargetAttributes = {
-				};
 			};
 			buildConfigurationList = 89BA0C143063AAED39B4673E /* Build configuration list for PBXProject "LvnDemo3" */;
 			compatibilityVersion = "Xcode 14.0";
@@ -114,7 +112,7 @@
 			);
 			mainGroup = 409E9FBD56D57DB82B183F22;
 			packageReferences = (
-				6CBEE87F86DCF63CD92AFDD9 /* XCRemoteSwiftPackageReference "liveview-client-swiftui" */,
+				003466AF2B50728000A16F8C /* XCLocalSwiftPackageReference "../../../../Packages/liveview-client-swiftui" */,
 			);
 			projectDirPath = "";
 			projectRoot = "";
@@ -341,21 +339,16 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCRemoteSwiftPackageReference section */
-		6CBEE87F86DCF63CD92AFDD9 /* XCRemoteSwiftPackageReference "liveview-client-swiftui" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/liveview-native/liveview-client-swiftui";
-			requirement = {
-				kind = exactVersion;
-				version = "0.2.0-beta.1";
-			};
+/* Begin XCLocalSwiftPackageReference section */
+		003466AF2B50728000A16F8C /* XCLocalSwiftPackageReference "../../../../Packages/liveview-client-swiftui" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = "../../../../Packages/liveview-client-swiftui";
 		};
-/* End XCRemoteSwiftPackageReference section */
+/* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		FFA056C1A3CE6E895B7A2CFC /* LiveViewNative */ = {
+		003466B02B50728000A16F8C /* LiveViewNative */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 6CBEE87F86DCF63CD92AFDD9 /* XCRemoteSwiftPackageReference "liveview-client-swiftui" */;
 			productName = LiveViewNative;
 		};
 /* End XCSwiftPackageProductDependency section */

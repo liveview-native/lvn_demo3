@@ -1,3 +1,1 @@
-<NavStack>
-  <%= @inner_content %>
-</NavStack>
+<%= @inner_content %>

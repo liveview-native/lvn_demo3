@@ -18,8 +18,12 @@ defmodule LvnDemo3Web.Router do
     pipe_through :browser
 
     # get "/", PageController, :home
-    live "/", HomeLive
-    live "/users", UserLive
+    live_session :root do
+      live "/", HomeLive
+    end
+    live_session :users do
+      live "/user", UserLive
+    end
   end
 
   # Other scopes may use custom stacks.

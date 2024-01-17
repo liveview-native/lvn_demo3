@@ -1,1 +1,2 @@
-<Text class={@other}>Hello, SwiftUI Template! <%= @other + 100 %></Text>
+<Rectangle class="test" />
+<Button phx-click="navigate">Go to page 2</Button>

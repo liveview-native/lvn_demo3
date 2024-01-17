@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FBC7BEC-CE3C-4097-AC0D-80D1F29964E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25FEB0E9-E598-4527-A2FA-F3D8F1C34CCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "join(channel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E00EACFC-0E58-49E8-93E5-1993A08D2F8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveSessionCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D618A9D-FCAE-44BB-B043-A15419890733"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveSessionCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "connect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D618A9D-FCAE-44BB-B043-A15419890733 - 8a62a7468a1683b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for LiveViewNative.LiveSessionCoordinator.connect() async -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveSessionCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "1D618A9D-FCAE-44BB-B043-A15419890733 - c5f052c8d3422066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftSoup.Element) throws -&gt; Swift.Optional&lt;LiveViewNative.Stylesheet&lt;&#x3c4;_0_0&gt;&gt; in LiveViewNative.LiveSessionCoordinator.connect() async -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveSessionCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F881334-70B0-48B5-A196-D87A4DD0CA40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/LiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE61B5EC-EB73-4B76-A7F0-4637E1EA2A60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
+            landmarkName = "join(channel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE61B5EC-EB73-4B76-A7F0-4637E1EA2A60 - 859759404ace2ec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftPhoenixClient.Message) -&gt; () in closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "371"
+                  endingLineNumber = "371"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "DE61B5EC-EB73-4B76-A7F0-4637E1EA2A60 - 40c79effe246a627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #2 (SwiftPhoenixClient.Message) -&gt; () in closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "371"
+                  endingLineNumber = "371"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "DE61B5EC-EB73-4B76-A7F0-4637E1EA2A60 - 42c6386cd07cc699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (SwiftPhoenixClient.Message) -&gt; () in closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "371"
+                  endingLineNumber = "371"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8569A95-709C-47DE-9BAF-B625748BB43B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
+            landmarkName = "join(channel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8569A95-709C-47DE-9BAF-B625748BB43B - 6c773053feafbe3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "A8569A95-709C-47DE-9BAF-B625748BB43B - d5e64e82ff1aa452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Sendable (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation.Termination) -&gt; () in closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A8569A95-709C-47DE-9BAF-B625748BB43B - 98326022587682b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SwiftPhoenixClient.Message) -&gt; () in closure #1 (Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;.Continuation) -&gt; () in LiveViewNative.LiveViewCoordinator.join(channel: SwiftPhoenixClient.Channel) -&gt; Swift.AsyncThrowingStream&lt;LiveViewNative.LiveViewCoordinator&lt;&#x3c4;_0_0&gt;.JoinResult, Swift.Error&gt;"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E780E51E-1786-4897-B787-048C648D03F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "doPushEvent(_:payload:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - c7db13cead0e0d2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "3240">
+               </Location>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - 33431a91098b2298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - e04edd35ab338999"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - e04edd35ab338936"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - e9dfaa5f3d43fc4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E780E51E-1786-4897-B787-048C648D03F1 - e9dfaa5f3d43fce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "doPushEvent(_:payload:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0 - c7db13cead0e0da6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0 - 7edb01abedd5e596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0 - 5685f2b02a114ba4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0 - 730bbdb728d6c4d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "6B340CDB-B3AE-409D-B4AF-896D7235E4B0 - 730bbdb728d6c7b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for LiveViewNative.LiveViewCoordinator.doPushEvent(_: Swift.String, payload: Swift.Dictionary&lt;Swift.String, Any&gt;) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1478AF8-7F0F-4A1F-9D7F-08D5EA7B7BDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "connect(domValues:redirect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1478AF8-7F0F-4A1F-9D7F-08D5EA7B7BDD - 20f4b2f60e94d66d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LiveViewNative.LiveViewCoordinator.connect(domValues: LiveViewNative.LiveSessionCoordinator&lt;&#x3c4;_0_0&gt;.DOMValues, redirect: Swift.Bool) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "E1478AF8-7F0F-4A1F-9D7F-08D5EA7B7BDD - b5b842c20f4503a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for LiveViewNative.LiveViewCoordinator.connect(domValues: LiveViewNative.LiveSessionCoordinator&lt;&#x3c4;_0_0&gt;.DOMValues, redirect: Swift.Bool) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E1478AF8-7F0F-4A1F-9D7F-08D5EA7B7BDD - 3656df18ed5e5ca3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for LiveViewNative.LiveViewCoordinator.connect(domValues: LiveViewNative.LiveSessionCoordinator&lt;&#x3c4;_0_0&gt;.DOMValues, redirect: Swift.Bool) async throws -&gt; ()"
+                  moduleName = "iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carson.katri/Documents/LiveViewNative/Packages/liveview-client-swiftui/Sources/LiveViewNative/Coordinators/LiveViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
